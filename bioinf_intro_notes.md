@@ -43,3 +43,32 @@ CHANGE Haemoglobin examples to another pair
 PAGE3, PAGE4, PAGE5 https://genome.cshlp.org/content/27/9/1461.full.pdf
 https://rest.uniprot.org/uniprotkb/Q5JUK9.fasta
 https://rest.uniprot.org/uniprotkb/O60829.fasta
+
+
+# Rearranging
+
+## sections
+  1. Intro mol bio and molecular evolution - throw in some more structure stuff
+  2. Sequence & structure data and data resources
+  3. Sequence search algorithms; smith waterman, global and local, heuristic search like blast
+  4. Function prediction and other bioinformatics
+
+### 1 Intro
+  1. What the hell is bioinf?
+  2. Intro biochem/mol bio
+  3. Intro prot structure
+  4. Intro prot function
+  5. Molecular evolution
+
+### 2 Resources
+  MOSTLY KEEP
+  1. NCBI - more expansive survey of what on offer
+  2. NCBI seq records
+  3. EMBL-EBI
+  4. PDB
+  5. UNIPROT
+
+### 3 Sequence search
+  KEEP EVERYTHING
+
+### 4 Other stuff
